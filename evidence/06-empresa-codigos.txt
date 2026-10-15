@@ -1,0 +1,42 @@
+﻿Comprobacion: excepciones de empresa y codigos invalidos
+Fecha local: 2026-10-15T00:44:00
+--- SALIDA DE LA TERMINAL ---
+
+documento  tipo            detalle                               
+---------  ----            -------                               
+1048555096 CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+1061320764 CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+1064872879 CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+1066380991 CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+13254412   CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+13684450   CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+1386135212 CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+13973538   CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+60256758   CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+8807180112 CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+8810996444 CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+8825832436 CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+88296276   CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+8865118580 CODIGO_INVALIDO Estado de afiliado fuera de A/I       
+1062105218 SIN_EMPRESA     Afiliado activo sin empresa registrada
+1078175958 SIN_EMPRESA     Afiliado activo sin empresa registrada
+13291368   SIN_EMPRESA     Afiliado activo sin empresa registrada
+1345926029 SIN_EMPRESA     Afiliado activo sin empresa registrada
+1358774823 SIN_EMPRESA     Afiliado activo sin empresa registrada
+13645711   SIN_EMPRESA     Afiliado activo sin empresa registrada
+3703303283 SIN_EMPRESA     Afiliado activo sin empresa registrada
+37187038   SIN_EMPRESA     Afiliado activo sin empresa registrada
+3729836957 SIN_EMPRESA     Afiliado activo sin empresa registrada
+3743426246 SIN_EMPRESA     Afiliado activo sin empresa registrada
+3757915872 SIN_EMPRESA     Afiliado activo sin empresa registrada
+6047908454 SIN_EMPRESA     Afiliado activo sin empresa registrada
+6062486330 SIN_EMPRESA     Afiliado activo sin empresa registrada
+8802342426 SIN_EMPRESA     Afiliado activo sin empresa registrada
+8810057414 SIN_EMPRESA     Afiliado activo sin empresa registrada
+88242437   SIN_EMPRESA     Afiliado activo sin empresa registrada
+8839725844 SIN_EMPRESA     Afiliado activo sin empresa registrada
+8876014103 SIN_EMPRESA     Afiliado activo sin empresa registrada
+
+
+
+

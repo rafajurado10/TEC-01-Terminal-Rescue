@@ -1,0 +1,30 @@
+﻿Comprobacion: excepciones de documentos duplicados
+Fecha local: 2026-10-15T00:43:59
+--- SALIDA DE LA TERMINAL ---
+
+documento  tipo      detalle                                              
+---------  ----      -------                                              
+1020751549 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+1040982710 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+1048335414 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+1341837102 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+1344766047 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+1366075689 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+1367901463 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+1371283409 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+13824220   DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+1396374155 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+3719530955 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+3753924849 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+3795423152 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+6035736385 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+88253924   DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+88361387   DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+88576694   DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+8869124143 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+8869583590 DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+88724664   DUPLICADO Documento repetido en AFI_MAE; se usa la primera fila
+
+
+
+

@@ -1,0 +1,22 @@
+﻿Comprobacion: fechas invalidas del cierre
+Fecha local: 2026-10-15T00:44:00
+--- SALIDA DE LA TERMINAL ---
+
+documento  tipo           detalle                                            
+---------  ----           -------                                            
+1044259063 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+1052051148 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+1058468350 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+3709342692 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+3757045739 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+60087263   FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+6026309765 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+60692566   FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+6089354914 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+8803649849 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+8830134354 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+8874391659 FECHA_INVALIDA Fecha de afiliacion imposible o formato desconocido
+
+
+
+

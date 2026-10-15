@@ -1,0 +1,6 @@
+﻿Comprobacion: ejecucion del cierre a travÃ©s de run.sh
+Fecha local: 2026-10-15T00:43:57
+--- SALIDA DE LA TERMINAL ---
+Cierre completado: 1500 afiliados, 1194 activos, 274 inactivos, 104 excepciones
+Error mas frecuente: CIE-4012 (1424 apariciones)
+

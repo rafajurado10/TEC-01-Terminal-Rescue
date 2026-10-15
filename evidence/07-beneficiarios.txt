@@ -1,0 +1,25 @@
+﻿Comprobacion: beneficiarios huerfanos del cierre
+Fecha local: 2026-10-15T00:44:00
+--- SALIDA DE LA TERMINAL ---
+
+documento  tipo                  detalle                         
+---------  ----                  -------                         
+1129041670 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1146346706 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1169047480 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1180158629 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1197831201 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+12021084   BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1205545819 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+12103475   BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1229863944 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1232818011 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+12432317   BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1247380700 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1260428286 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+1266491711 BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+12775950   BENEFICIARIO_HUERFANO No existe su afiliado en AFI_MAE
+
+
+
+

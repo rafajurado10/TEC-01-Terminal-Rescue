@@ -1,0 +1,38 @@
+﻿Comprobacion: docker compose: conexiÃ³n worker PostgreSQL
+Fecha local: 2026-10-15T00:43:56
+--- SALIDA DE LA TERMINAL ---
+NAME                              IMAGE                           COMMAND                  SERVICE         CREATED       STATUS                 PORTS
+terminal-rescue-cierre-api-1      terminal-rescue-cierre-api      "python app.py"          cierre-api      2 hours ago   Up 2 hours             0.0.0.0:8081->8081/tcp, [::]:8081->8081/tcp
+terminal-rescue-cierre-db-1       postgres:16-alpine              "docker-entrypoint.sÔÇª"   cierre-db       5 hours ago   Up 5 hours (healthy)   5432/tcp
+terminal-rescue-cierre-worker-1   terminal-rescue-cierre-worker   "python worker.py"       cierre-worker   5 hours ago   Up 5 hours             
+cierre-worker-1  | [2026-10-15T05:28:59Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:29:29Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:29:59Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:30:29Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:30:59Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:31:29Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:31:59Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:32:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:33:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:33:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:34:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:34:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:35:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:35:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:36:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:36:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:37:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:37:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:38:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:38:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:39:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:39:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:40:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:40:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:41:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:41:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:42:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:42:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:43:00Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+cierre-worker-1  | [2026-10-15T05:43:30Z] [INFO] conciliacion registros=1520 documentos_distintos=1500
+

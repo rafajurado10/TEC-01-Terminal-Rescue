@@ -1,0 +1,35 @@
+﻿Comprobacion: cruce con Caja Oriente, inconsistencias
+Fecha local: 2026-10-15T00:44:00
+--- SALIDA DE LA TERMINAL ---
+
+documento  tipo              detalle                                         
+---------  ----              -------                                         
+1000385358 CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+1002471016 CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+1008958781 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+1013042442 CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+1021958956 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+1027394279 CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+1027899673 CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+1032087547 CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+1043196119 CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+1057370088 CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+1084155486 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+1307174900 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+13198168   CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+13857633   CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+3719889042 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+3739675472 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+3741495054 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+3785034513 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+60213545   CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+6039035908 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+6060554836 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+60638164   CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+60838637   CRUCE_NO_COINCIDE Afiliado de Caja Oriente ausente del maestro    
+8832988347 CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+88647779   CRUCE_NO_COINCIDE Situacion Caja Oriente diferente al estado local
+
+
+
+
