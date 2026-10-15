@@ -50,7 +50,7 @@ def find_member(documento):
     if row is None:
         return None
     nro_doc, nom1, nom2, ape1, ape2, est_afi, nom_emp = row
-    nombre = nom1 + " " + nom2 + " " + ape1 + " " + ape2
+    nombre = " ".join(parte.strip() for parte in (nom1, nom2, ape1, ape2) if parte and parte.strip())
     return {"documento": nro_doc, "nombre": nombre.strip(), "estado": ESTADOS[est_afi], "empresa": nom_emp}
 
 
